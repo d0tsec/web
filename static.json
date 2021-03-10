@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "web_samurai",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
